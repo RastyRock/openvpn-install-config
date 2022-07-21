@@ -1,5 +1,5 @@
 # openvpn-install-config
-**Новинка: [wireguard-install](https://github.com/RastyRock/wireguard-install)) также доступна.**
+**Новинка: [wireguard-install](https://github.com/RastyRock/wireguard-install) также доступна.**
 
 ## openvpn-install
 OpenVPN [road warrior](http://en.wikipedia.org/wiki/Road_warrior_%28computing%29) Установщик Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora.
